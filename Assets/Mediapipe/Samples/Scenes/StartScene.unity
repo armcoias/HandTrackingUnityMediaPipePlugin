@@ -532,7 +532,7 @@ GameObject:
   - component: {fileID: 1343550599}
   - component: {fileID: 1343550598}
   m_Layer: 0
-  m_Name: ImageSource
+  m_Name: Image Source
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -724,27 +724,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c6ac0e17f97ac9346800a1079f1a8428, type: 3}
       propertyPath: m_LocalScale.x
-      value: 10
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c6ac0e17f97ac9346800a1079f1a8428, type: 3}
       propertyPath: m_LocalScale.y
-      value: 10
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c6ac0e17f97ac9346800a1079f1a8428, type: 3}
       propertyPath: m_LocalScale.z
-      value: 10
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c6ac0e17f97ac9346800a1079f1a8428, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 729.4
+      value: 726.12
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c6ac0e17f97ac9346800a1079f1a8428, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 91.6
+      value: 91.92
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c6ac0e17f97ac9346800a1079f1a8428, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -963.2
+      value: -971.6
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c6ac0e17f97ac9346800a1079f1a8428, type: 3}
       propertyPath: m_LocalRotation.w

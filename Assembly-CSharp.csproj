@@ -51,6 +51,7 @@
      <Compile Include="Assets\Mediapipe\Samples\Common\Scripts\ImageSource\StaticImageSource.cs" />
      <Compile Include="Assets\Mediapipe\Samples\Common\Scripts\ImageSource\VideoSource.cs" />
      <Compile Include="Assets\Mediapipe\Samples\UI\Scripts\ModalContents.cs" />
+     <Compile Include="Assets\Mediapipe\Samples\Scenes\HandTracking\HandTrackingGraph.cs" />
      <Compile Include="Assets\Mediapipe\Samples\UI\Scripts\LogLine.cs" />
      <Compile Include="Assets\Mediapipe\Samples\Common\Scripts\GpuManager.cs" />
      <Compile Include="Assets\Mediapipe\Samples\Common\Scripts\ImageSourceProvider.cs" />
@@ -64,11 +65,14 @@
      <Compile Include="Assets\Mediapipe\Samples\Common\Scripts\GlobalInstanceTable.cs" />
      <Compile Include="Assets\Mediapipe\Samples\Common\Scripts\AssetLoader.cs" />
      <Compile Include="Assets\Mediapipe\Samples\Common\Scripts\Screen.cs" />
+     <Compile Include="Assets\Mediapipe\Samples\Scenes\HandTracking\HandTrackingSolution.cs" />
      <Compile Include="Assets\Mediapipe\Samples\UI\Scripts\ImageSourceConfig.cs" />
      <Compile Include="Assets\Mediapipe\Samples\Common\Scripts\GraphRunner.cs" />
+     <Compile Include="Assets\Mediapipe\Samples\Scenes\HandTracking\HandTrackingValue.cs" />
      <Compile Include="Assets\Mediapipe\Samples\Common\Scripts\ImageSource\WebCamSource.cs" />
      <Compile Include="Assets\Mediapipe\Samples\Common\Scripts\InferenceMode.cs" />
      <Compile Include="Assets\Mediapipe\Samples\UI\Scripts\GUIConsole.cs" />
+     <Compile Include="Assets\Mediapipe\Samples\Scenes\HandTracking\HandTrackingConfig.cs" />
      <Compile Include="Assets\Mediapipe\Samples\Common\Scripts\RunningMode.cs" />
      <Compile Include="Assets\Mediapipe\Samples\Common\Scripts\GlobalConfigManager.cs" />
      <Compile Include="Assets\Mediapipe\Samples\UI\Scripts\ModalButton.cs" />
@@ -76,10 +80,6 @@
      <Compile Include="Assets\Mediapipe\Samples\UI\Scripts\AutoFit.cs" />
      <Compile Include="Assets\Mediapipe\Samples\Common\Scripts\MemoizedLogger.cs" />
      <Compile Include="Assets\Mediapipe\Samples\UI\Scripts\Modal.cs" />
-     <Compile Include="Assets\Mediapipe\Samples\Scenes\HandTracking\HandTrackingValue.cs" />
-     <Compile Include="Assets\Mediapipe\Samples\Scenes\HandTracking\HandTrackingSolution.cs" />
-     <Compile Include="Assets\Mediapipe\Samples\Scenes\HandTracking\HandTrackingGraph.cs" />
-     <Compile Include="Assets\Mediapipe\Samples\Scenes\HandTracking\HandTrackingConfig.cs" />
      <None Include="Assets\Mediapipe\Samples\Scenes\HandTracking\hand_tracking_gpu.txt" />
      <None Include="Assets\StreamingAssets\handedness.txt" />
      <None Include="Assets\StreamingAssets\ssdlite_object_detection_labelmap.txt" />

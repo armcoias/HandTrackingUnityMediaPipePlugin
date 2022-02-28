@@ -166,6 +166,9 @@ namespace Mediapipe.Unity.HandTracking
     private void OnHandLandmarksOutput(List<NormalizedLandmarkList> handLandmarks)
     {
       _handLandmarksAnnotationController.DrawLater(handLandmarks);
+
+      // NEW CODE:
+      Logger.LogInfo(TAG, $"Landmarks = {handLandmarks}");
     }
 
     private void OnHandWorldLandmarksOutput(List<LandmarkList> handWorldLandmarks)
@@ -181,6 +184,9 @@ namespace Mediapipe.Unity.HandTracking
     private void OnHandednessOutput(List<ClassificationList> handedness)
     {
       _handLandmarksAnnotationController.DrawLater(handedness);
+
+      // NEW CODE:
+      Logger.LogInfo(TAG, $"Handedness = {handedness}");
     }
   }
 }

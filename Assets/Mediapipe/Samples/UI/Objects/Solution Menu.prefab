@@ -982,11 +982,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 6134773167894791910}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9add77a6e4bf64e118297a7f33a820a7, type: 3}
+  m_Script: {fileID: 11500000, guid: 38b547fc3e525094897eb979518efe47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _solutionRowPrefab: {fileID: 6622511781121372553, guid: a159008dd252acd3cae7c02b4f17a5c4,
-    type: 3}
+  _solutionRowPrefab: {fileID: 6622511781121372553, guid: 052619368d6fe7243b6ac43d506f5ddd, type: 3}
 --- !u!1 &6184363899762658117
 GameObject:
   m_ObjectHideFlags: 0
